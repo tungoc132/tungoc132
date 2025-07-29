@@ -1,10 +1,8 @@
-# ✨ Hi, I'm Tu Ngoc!
+# ✨ Hey, I'm Tu Ngoc!
 
 👩🏻‍🎓 Studied [Information Security](https://inseclab.uit.edu.vn/) at the University of Information Technology, VNU <br/>
 💭 Possessing a deep passion for cybersecurity, with hands-on expertise in ethical hacking and risk management <br/>
-🌱 Currently learning about **CompTIA Security+, CISCP, AWS** <br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=tungoc132&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)
+🌱 Currently learning about **CCNA, CompTIA Security+, CEH, AWS** <br/>
 
 ## 🌐 SOCIALS
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tungoc.0202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyentungoc) 
