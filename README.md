@@ -1,7 +1,7 @@
 # ✨ Hey, I'm Tu Ngoc!
 
-👩🏻‍🎓 Studied [Information Security](https://inseclab.uit.edu.vn/) at the University of Information Technology, VNU <br/>
-💭 Possessing a deep passion for cybersecurity, with hands-on expertise in ethical hacking and risk management <br/>
+👩🏻‍🎓 Majoring in [Information Security](https://inseclab.uit.edu.vn/) at the University of Information Technology, VNU <br/>
+💭 Possessing a deep passion for cybersecurity, with hands-on experience in ethical hacking and risk management <br/>
 🌱 Currently learning about **CCNA, CompTIA Security+, CEH, AWS** <br/>
 
 ## 🌐 SOCIALS
