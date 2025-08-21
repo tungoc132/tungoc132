@@ -4,10 +4,10 @@
 💭 Possessing a deep passion for cybersecurity, with hands-on experience in ethical hacking and risk management <br/>
 🌱 Currently learning about **CCNA, CompTIA Security+, CEHv13, AWS** <br/>
 
-## 🌐 SOCIALS
+## 🌐 CONNECT WITH ME
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tungoc.0202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyentungoc) 
 
-## 💻 TECH STACK
+## 💻 TECHNOLOGIES I WORKED WITH
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tungoc132&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/> -->
 
 ### Web Technologies & Frameworks
